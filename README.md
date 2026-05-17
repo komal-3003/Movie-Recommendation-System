@@ -71,6 +71,6 @@ The dashboard was built using interactive UI components:
 - Most popular movies generate richer and more accurate recommendations
   
 ## User Interface
-- <a href="https://github.com/komal-3003/HR-Analytics-Dashboard/blob/main/Screenshot%202026-03-29%20230432.png"> View User Interface </a>
+- <a href="https://github.com/komal-3003/Movie-Recommendation-System/blob/main/Screenshot%202026-05-17%20223152.png"> View User Interface </a>
 ## Conclusion
 This project demonstrates how machine learning and real-time APIs can be combined to build a powerful movie recommendation system. It provides personalized suggestions with enriched movie details, helping users discover new movies easily while ensuring fast and interactive performance.
