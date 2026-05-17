@@ -25,7 +25,7 @@ The objective of this project is to build an intelligent movie recommendation sy
 - Dataset coverage of popular movies
   
 ## Dataset used
-- <a href="https://github.com/komal-3003/HR-Analytics-Dashboard/blob/main/HR_Analytics.csv">Dataset</a>
+- <a href="https://github.com/komal-3003/Movie-Recommendation-System/blob/main/movies_metadata.zip">Dataset</a>
 ## Project Process
 ## 1️.Data Collection
 The dataset includes movie-related information such as:
